@@ -5,6 +5,7 @@ on:
     branches:
     - main
     - master
+    - akou-test
     paths:
     - .github/workflows/semgrep.yml
   schedule:
